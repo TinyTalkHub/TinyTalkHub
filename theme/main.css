@@ -53,8 +53,12 @@ body {
 .type-bar {
   width: 100%;
 }
-.type-box {
+.type-wrapper {
+  width: fit-content;
   margin: 0 auto;
+}
+.type-box {
+  margin-left: 3%;
   width: 30%;
   display: inline-block;
   border: 1px solid black;
