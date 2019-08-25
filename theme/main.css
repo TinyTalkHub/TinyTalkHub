@@ -60,7 +60,7 @@ body {
 }
 .type-box {
   display: inline-block;
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 15px;
   height: 270px;
   width: 270px;
