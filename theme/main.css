@@ -50,3 +50,14 @@ body {
 .profile-bar-crown {
   color: gold;
 }
+.type-bar {
+  width: 100%;
+}
+.type-box {
+  margin: 0 auto;
+  width: 30%;
+  display: inline-block;
+  border: 1px solid black;
+  height: 300px;
+  width: 300px;
+}
