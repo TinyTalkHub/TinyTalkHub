@@ -29,6 +29,7 @@ body {
   border-bottom: 2px solid #e5e5e5;
 }
 .profile-cog {
+  float: right;
   font-size: 1.5rem;
   height: 36px;
   margin-top: 6px;
