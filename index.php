@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class="profile-bar">
-    <div class="profile-bar-item profile-bar-cog"><i class="fas fa-cog"></i><span class"profile-bar-text"> Login</span></div>
+    <div class="profile-bar-item profile-bar-cog"><i class="fas fa-cog"></i><span class"profile-bar-text"></span></div>
     <div class="profile-bar-item profile-bar-gem"><i class="far fa-gem"></i><span class"profile-bar-text"> 1720 Gems</span></div>
     <div class="profile-bar-item profile-bar-crown"><i class="fas fa-crown"></i><span class"profile-bar-text"> 300 Crowns</span></div>
   </div>
