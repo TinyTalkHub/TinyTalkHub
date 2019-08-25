@@ -24,9 +24,13 @@ body {
   padding: 0;
 }
 .profile-bar {
-  font-size: 1.5rem;
-  line-height: 24px;
   width: 100%;
   height: 48px;
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 2px solid #e5e5e5;
+}
+.profile-cog {
+  height: 36px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  color: #e5e5e5;
 }
