@@ -31,7 +31,7 @@ body {
 .profile-bar-item {
   float: right;
   margin-right: 20px;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   height: 36px;
   margin-top: 6px;
   margin-bottom: 6px;
@@ -39,7 +39,7 @@ body {
   color: grey;
 }
 .profile-bar-text {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .profile-bar-gem {
   color: pink;
