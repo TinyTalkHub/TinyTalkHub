@@ -59,10 +59,10 @@ body {
   margin: 0 auto;
 }
 .type-box {
-  margin-left: 3%;
-  width: 30%;
   display: inline-block;
   border: 1px solid black;
-  height: 300px;
-  width: 300px;
+  border-radius: 5px;
+  height: 270px;
+  width: 270px;
+  padding: 15px;
 }
