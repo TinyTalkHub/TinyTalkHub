@@ -5,7 +5,7 @@
 </head>
 <body>
   <div class="profile-bar">
-    <div class="profile-cog"><i class="fas fa-cog"></i> Login</div>
+    <div class="profile-cog"><i class="fas fa-cog"></i><span class"profile-cog-text"> Login</span></div>
   </div>
 </body>
 </html>
