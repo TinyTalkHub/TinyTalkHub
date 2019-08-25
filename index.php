@@ -11,9 +11,9 @@
   </div>
   <div class="type-bar">
     <div class="type-wrapper">
-      <div class="type-box"><div class="type-box-icon"><i class="far fa-gem"></i></div></div>
-      <div class="type-box"><div class="type-box-icon"><i class="far fa-gem"></i></div></div>
-      <div class="type-box"><div class="type-box-icon"><i class="far fa-gem"></i></div></div>
+      <div class="type-box"><div class="type-box-icon"><i class="far fa-clone"></i></div></div>
+      <div class="type-box"><div class="type-box-icon"><i class="far fa-clone"></i></div></div>
+      <div class="type-box"><div class="type-box-icon"><i class="far fa-clone"></i></div></div>
     </div>
   </div>
 </body>
