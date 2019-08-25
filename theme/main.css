@@ -51,6 +51,7 @@ body {
   color: gold;
 }
 .type-bar {
+  margin-top: 20px;
   width: 100%;
 }
 .type-wrapper {

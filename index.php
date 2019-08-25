@@ -10,9 +10,11 @@
     <div class="profile-bar-item profile-bar-crown"><i class="fas fa-crown"></i><span class"profile-bar-text"> 0 Crowns</span></div>
   </div>
   <div class="type-bar">
-    <div class="type-box">Content</div>
-    <div class="type-box">Content</div>
-    <div class="type-box">Content</div>
+    <div class="type-wrapper">
+      <div class="type-box">Content</div>
+      <div class="type-box">Content</div>
+      <div class="type-box">Content</div>
+    </div>
   </div>
 </body>
 </html>
