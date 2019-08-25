@@ -61,7 +61,7 @@ body {
 .type-box {
   display: inline-block;
   border: 1px solid black;
-  border-radius: 5px;
+  border-radius: 15px;
   height: 270px;
   width: 270px;
   padding: 15px;
