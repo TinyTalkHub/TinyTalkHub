@@ -1,2 +1,4 @@
+Header unset X-Powered-By
+
 RewriteEngine On
 RedirectMatch 404 /\.git
