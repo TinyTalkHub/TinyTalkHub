@@ -37,12 +37,15 @@ body {
   margin-bottom: 6px;
   vertical-align: middle;
 }
+.profile-bar-text {
+  font-size: 1.2rem;
+}
 .profile-bar-gem {
-  color: purple;
+  color: pink;
 }
 .profile-bar-cog {
   color: grey;
 }
-.profile-bar-text {
-  font-size: 1.2rem;
+.profile-bar-cog {
+  color: gold;
 }
