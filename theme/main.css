@@ -67,7 +67,8 @@ body {
   padding: 15px;
 }
 .type-box-icon {
-  font-size: 3rem;
+  font-size: 5rem;
+  text-align: center;
   width: 100px;
   height: 100px;
   margin: 0 auto;
