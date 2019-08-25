@@ -28,15 +28,21 @@ body {
   height: 48px;
   border-bottom: 2px solid #e5e5e5;
 }
-.profile-cog {
+.profile-bar-item {
   float: right;
+  margin-20px;
   font-size: 1.5rem;
   height: 36px;
   margin-top: 6px;
   margin-bottom: 6px;
-  color: grey;
   vertical-align: middle;
 }
-.profile-cog-text {
+.profile-bar-gem {
+  color: purple;
+}
+.profile-bar-cog {
+  color: grey;
+}
+.profile-bar-text {
   font-size: 1.2rem;
 }
