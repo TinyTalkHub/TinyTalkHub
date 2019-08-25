@@ -2,6 +2,7 @@
 <head>
   <link href="/theme/main.css" rel="stylesheet">
   <script src="https://kit.fontawesome.com/896fc5b83f.js" integrity="sha384-OAKDWjOpG0bQXRy41SslIR0heiiGZgnS0jmLIHzSouiddvpUQBcko17yKzA5R9SK" crossorigin="anonymous"></script>
+  <meta name="viewport" content="width=device-width, user-scalable=no" />
 </head>
 <body>
   <div class="profile-bar">
