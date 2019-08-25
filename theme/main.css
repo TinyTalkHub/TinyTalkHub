@@ -30,7 +30,7 @@ body {
 }
 .profile-bar-item {
   float: right;
-  margin-20px;
+  margin-right: 20px;
   font-size: 1.5rem;
   height: 36px;
   margin-top: 6px;
