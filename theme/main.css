@@ -66,3 +66,9 @@ body {
   width: 270px;
   padding: 15px;
 }
+.type-box-icon {
+  font-size: 3rem;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}

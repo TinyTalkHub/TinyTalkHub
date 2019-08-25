@@ -11,9 +11,9 @@
   </div>
   <div class="type-bar">
     <div class="type-wrapper">
-      <div class="type-box">Content</div>
-      <div class="type-box">Content</div>
-      <div class="type-box">Content</div>
+      <div class="type-box"><div class="type-box-icon"></div><i class="far fa-gem"></div>
+      <div class="type-box"><div class="type-box-icon"></div><i class="far fa-gem"></div>
+      <div class="type-box"><div class="type-box-icon"></div><i class="far fa-gem"></div>
     </div>
   </div>
 </body>
