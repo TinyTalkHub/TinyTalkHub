@@ -70,7 +70,11 @@ body {
 .type-box-icon {
   font-size: 5rem;
   text-align: center;
-  width: 100px;
-  height: 100px;
+  width: fit-content;
+  height: fit-content;
   margin: 0 auto;
+}
+.type-box-title {
+  width: fit-content;
+  padding-top: 20px;
 }
